@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MaxVelocity</key>
+	<real>1.2</real>
+	<key>MaxBackwardVelocity</key>
+	<real>1.1</real>
+	<key>PlaneAnimDelay</key>
+	<real>0.3</real>
+	<key>Sensitivity</key>
+	<integer>6</integer>
+	<key>Deceleration</key>
+	<real>0.6</real>
+</dict>
+</plist>
