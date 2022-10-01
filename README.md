@@ -1,2 +1,2 @@
 # TrainingInferno
-A mini game built with Cocos2d
+A mini game built using Cocos2d for iOS
